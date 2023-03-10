@@ -16,6 +16,9 @@
    </tr>
 </table>
 
+<br>
+
+Obs. As configurações de teclado do computador precisa estar em ENG (Inglês - Estados Unidos)
 
 
 🧑‍💻 Feito por: Milênio Rocha

@@ -2,6 +2,8 @@
 
 💻 Arduino C/C++
 
+📲 Vídeo no instagram: <a href="https://www.instagram.com/reel/CpnUSroLW-g/?utm_source=ig_web_copy_link">➡️ Veja o vídeo clicando aqui ⬅️</a>
+
 🗒️ Lista de Componentes:
 <table class="table table-success">
  <thead>
